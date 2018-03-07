@@ -1,4 +1,4 @@
-# web-scraper
+# countdown
 
 This is a React countdown application. A user enters a date in "Month Day, year" Format and the countdown will determine how much time is left for the selected date. 
 
